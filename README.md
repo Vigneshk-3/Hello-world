@@ -1,2 +1,3 @@
 # Hello-world
-my first repository
+my first repository in github
+i like ☕ and 🍕
